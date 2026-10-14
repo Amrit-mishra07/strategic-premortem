@@ -15,7 +15,7 @@ Most pre-mortems give you a generic risk list. This skill makes Claude do the ha
 ## Install
 
 ### Claude.ai / Claude Desktop
-1. Download `strategic-premortem.skill` from the [latest release](../../releases/latest).
+1. Download `strategic-premortem-skill.zip` from the [latest release](../../releases/latest).
 2. In Claude, open **Settings → Capabilities → Skills** (menu names change; see Anthropic's current "Using skills in Claude" guide) and upload the file.
 
 Skills need code execution to be enabled, and availability depends on your plan. Uploaded skills are private to your account unless your organization admin shares them.
