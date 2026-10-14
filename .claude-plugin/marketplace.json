@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "premortem-skills",
+  "owner": { "name": "Amritanshu Mishra" },
+  "metadata": {
+    "description": "Strategic pre-mortem and six-month scenario simulation skill for Claude"
+  },
+  "plugins": [
+    {
+      "name": "strategic-premortem",
+      "source": "./plugins/strategic-premortem",
+      "description": "Deep strategic pre-mortem and six-month forward simulation for any project, startup, product, or major decision, using economics, game theory, and decision science."
+    }
+  ]
+}

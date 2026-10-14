@@ -1,0 +1,22 @@
+{
+  "name": "strategic-premortem",
+  "description": "Deep strategic pre-mortem and six-month forward simulation for any project, startup, product, or major decision.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Amritanshu Mishra",
+    "url": "https://github.com/Amrit-mishra07"
+  },
+  "license": "MIT",
+  "keywords": [
+    "pre-mortem",
+    "premortem",
+    "strategy",
+    "game-theory",
+    "scenario-analysis",
+    "risk",
+    "startup",
+    "decision-making"
+  ],
+  "homepage": "https://github.com/Amrit-mishra07/strategic-premortem",
+  "repository": "https://github.com/Amrit-mishra07/strategic-premortem"
+}
